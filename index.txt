@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Lógica de Programação</title>
+</head>
+<body>
+	
+<!--
+		logica
+	<script src="script/logica.js" type="text/javascript">
+		operadores
+	<script src="script/operadores.js" type="text/javascript">
+		array, lancos e repeticao 
+	<script src="script/funcoes.js" type="text/javascript">
+		array com objetos
+	<script src="script/array.js" type="text/javascript">
+		document.write("Hello Worl!");
+-->
+	<script src="script/projeto.js" type="text/javascript">
+		document.write("Hello Worl!");
+
+	</script>
+</body>
+</html>
