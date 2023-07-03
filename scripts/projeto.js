@@ -1,10 +1,10 @@
 
 var arr = [
-		{tipo:1, descricao:"Pagamento do Freela", data:"2019-02-01", valor: 2500},
-		{tipo:2, descricao:"Pagamento conta de Luz", data:"2019-02-01", valor: 76},
-		{tipo:1, descricao:"Pagamento do Freela 2", data:"2019-02-01", valor: 4500},
-		{tipo:1, descricao:"Pagamento do Freela 3", data:"2019-02-01", valor: 1500},
-		{tipo:2, descricao:"Pagamento da conta de Água", data:"2019-02-01", valor: 55}
+		{tipo:1, descricao:"Pagamento do Freela", data:"2023-07-01", valor: 2500},
+		{tipo:2, descricao:"Pagamento conta de Luz", data:"2023-07-01", valor: 76},
+		{tipo:1, descricao:"Pagamento do Freela 2", data:"2023-07-01", valor: 4500},
+		{tipo:1, descricao:"Pagamento do Freela 3", data:"2023-07-01", valor: 1500},
+		{tipo:2, descricao:"Pagamento da conta de Água", data:"2023-07-01", valor: 55}
 	];
 
 
